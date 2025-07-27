@@ -160,3 +160,12 @@ Berühren → Nutzen → Verstehen → Selbst machen
 ___
 
 Die Vision ist einfach und radikal zugleich: eine Welt, in der jeder nicht nur Technologie nutzen, sondern auch verstehen und gestalten kann. Eine Berührung zur richtigen Zeit.
+
+____
+
+CHRONIK:
+
+*DigiDot_1: Lern-Oase – Wissensserien für Kids
+*DigiDot_2: DigiDot QR-Code Replacer
+
+
