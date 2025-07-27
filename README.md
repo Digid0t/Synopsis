@@ -6,7 +6,8 @@ DigiDots 🎯
 
 Digitale Revolution durch Berührung
 
-"Tut was! - Ein NFC-Tag zur richtigen Zeit."
+    "Tut was! - Ein NFC-Tag zur richtigen Zeit."
+
 
 ________
 
@@ -153,6 +154,9 @@ Traditionell lernt man Programmierung durch abstrakte Beispiele. DigiDots dreht 
 
 Was DigiDots wirklich auszeichnet, ist die Philosophie dahinter: Technologie soll den Menschen dienen, nicht umgekehrt. Jede App entsteht aus einem echten Bedürfnis, löst ein echtes Problem, verbessert ein echtes Leben.
 
-Eine Welt, in der jeder nicht nur Technologie nutzen, sondern auch verstehen und gestalten kann. Eine Berührung zur Zeit.
+Eine Welt, in der jeder nicht nur Technologie nutzen, sondern auch verstehen und gestalten kann. Eine Berührung zur richtigen Zeit.
 
 Berühren → Nutzen → Verstehen → Selbst machen
+___
+
+Die Vision ist einfach und radikal zugleich: eine Welt, in der jeder nicht nur Technologie nutzen, sondern auch verstehen und gestalten kann. Eine Berührung zur richigen Zeit.
